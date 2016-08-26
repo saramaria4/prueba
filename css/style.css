@@ -13,7 +13,7 @@ font-family: 'Lato', sans-serif;
 .navbar-header.main {
 		margin-top: 0;
 		color: blue;
-		}
+}
 
 .main h1.headline{
 	color: red;
@@ -99,21 +99,24 @@ font-family: 'Lato', sans-serif;
 .info-teach{
 	border: 2px;
 }
+
 img .profe {
 	position: absolute;
 }
 
-.headline-info {
-	float: left;
-}
-.box-subtitle{
-	float: left;
+.box-title{
+	text-align: center;
+	size: 50px;
+	font-weight: bold;
 }
 
+.box-subtitle{
+	border: 2px;
+	position: relative;
+}
 
 footer {
 	background-position: black;
 	color: white;
 	text-align: center;
-
 }
