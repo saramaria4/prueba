@@ -1,0 +1,119 @@
+body {
+font-family: 'Lato', sans-serif;
+}
+
+.main {
+		margin-top: 60px;
+	    background:  url('../img/fondo.jpg')repeat center center;
+	    background-repeat: no-repeat;
+	    background-size: 100%
+	    border-bottom: 1px solid #222;
+}
+
+.navbar-header.main {
+		margin-top: 0;
+		color: blue;
+		}
+
+.main h1.headline{
+	color: red;
+	font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-size: 56px;
+    line-height: 62px;
+    text-align: center;
+    margin: 30px auto;
+
+}
+
+.call-to-action{
+	text-align: center;	
+}
+
+.promo-text{
+	text-align: center;
+	color: black;
+	font-size: 26px;
+}
+
+
+.block h2.headline {
+	text-align: center;
+	display: block;
+	margin: 10px auto;
+	letter-spacing: 1px;
+	line-height: 29px;
+	font-weight: bold; 
+}
+
+.block p.headline-caption {
+	text-align: center;
+	display: block;
+	margin: 10px auto;
+	font-size: 15px;
+	line-height: 21px;
+	color: #3c3c3c;
+}
+
+.logo {
+	align-content: center;
+	padding: 30px 60px;
+}
+
+.info{
+	border: 2px;
+}
+
+.box {
+	float: left;
+}
+
+.form-group{
+	float: left;
+}
+
+.aside h3.headline {
+	text-align: center;
+	margin: 10px auto;
+	letter-spacing: 1px;
+	line-height: 29px;
+	font-weight: bold; 
+}
+
+.brand{
+	text-align: center;
+	background: grey;
+	color: black;
+	position: bottom;
+}
+
+.info h4.headline{
+	text-align: center;
+	size: 45;
+	color: red;
+	letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.info-teach{
+	border: 2px;
+}
+img .profe {
+	position: absolute;
+}
+
+.headline-info {
+	float: left;
+}
+.box-subtitle{
+	float: left;
+}
+
+
+footer {
+	background-position: black;
+	color: white;
+	text-align: center;
+
+}
